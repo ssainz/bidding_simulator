@@ -1,0 +1,67 @@
+loading dataset 1458
+loading dataset 2259
+loading dataset 2261
+loading dataset 2821
+loading dataset 2997
+loading dataset 3358
+loading dataset 3386
+loading dataset 3427
+loading dataset 3476
+\subsection{preprocessed : click}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/preprocessed_click.png}
+\caption{preprocessed : click histogram} 
+\label{fig:preprocessed\_click}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{preprocessed : click stats} \\
+\hline \\
+Count        & 2900853.0  \\
+Unique       & 2 \\
+Avg       & 0.0007615001518518863 \\
+Std        & 0.027584788048485187  \\
+Max        & 1.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{preprocessed : market\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/preprocessed_market_price.png}
+\caption{preprocessed : market\_price histogram} 
+\label{fig:preprocessed\_market\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{preprocessed : market\_price stats} \\
+\hline \\
+Count        & 2900853.0  \\
+Unique       & 301 \\
+Avg       & 89.55353752844422 \\
+Std        & 70.08597516060125  \\
+Max        & 300.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{preprocessed : theta\_x}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/preprocessed_theta_x.png}
+\caption{preprocessed : theta\_x histogram} 
+\label{fig:preprocessed\_theta\_x}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{preprocessed : theta\_x stats} \\
+\hline \\
+Count        & 2900853.0  \\
+Unique       & 2187086 \\
+Avg       & 0.0008766689390632109 \\
+Std        & 0.009389504375029476  \\
+Max        & 0.9332718849182128  \\
+Min       & 4.441621292983201e-09 \\
+\end{tabular}
+\end{table}
+Finish with Real time bidding by Reinforcement Learning in Display Advertising dataset

@@ -1,0 +1,1535 @@
+\subsection{conversion : bid\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_bid_id.png}
+\caption{conversion : bid\_id histogram} 
+\label{fig:conversion\_bid\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : bid\_id stats} \\
+\hline \\
+Count        & 494  \\
+Unique       & 404 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : timestamp}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_timestamp.png}
+\caption{conversion : timestamp histogram} 
+\label{fig:conversion\_timestamp}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : timestamp stats} \\
+\hline \\
+Count        & 494  \\
+Unique       & 399 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : log\_type}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_log_type.png}
+\caption{conversion : log\_type histogram} 
+\label{fig:conversion\_log\_type}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : log\_type stats} \\
+\hline \\
+Count        & 494.0  \\
+Unique       & nan \\
+Avg       & 3.0 \\
+Std        & 0.0  \\
+Max        & 3.0  \\
+Min       & 3.0 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : ipinyou\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_ipinyou_id.png}
+\caption{conversion : ipinyou\_id histogram} 
+\label{fig:conversion\_ipinyou\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : ipinyou\_id stats} \\
+\hline \\
+Count        & 494  \\
+Unique       & 418 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : user\_agent}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_user_agent.png}
+\caption{conversion : user\_agent histogram} 
+\label{fig:conversion\_user\_agent}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : user\_agent stats} \\
+\hline \\
+Count        & 488  \\
+Unique       & 196 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : ip}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_ip.png}
+\caption{conversion : ip histogram} 
+\label{fig:conversion\_ip}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : ip stats} \\
+\hline \\
+Count        & 494  \\
+Unique       & 402 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : region\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_region_id.png}
+\caption{conversion : region\_id histogram} 
+\label{fig:conversion\_region\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : region\_id stats} \\
+\hline \\
+Count        & 494.0  \\
+Unique       & nan \\
+Avg       & 158.01214574898785 \\
+Std        & 106.83144319830501  \\
+Max        & 394.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : city\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_city_id.png}
+\caption{conversion : city\_id histogram} 
+\label{fig:conversion\_city\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : city\_id stats} \\
+\hline \\
+Count        & 494.0  \\
+Unique       & nan \\
+Avg       & 162.90283400809716 \\
+Std        & 107.61988301964016  \\
+Max        & 399.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : ad\_exchange}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_ad_exchange.png}
+\caption{conversion : ad\_exchange histogram} 
+\label{fig:conversion\_ad\_exchange}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : ad\_exchange stats} \\
+\hline \\
+Count        & 494.0  \\
+Unique       & nan \\
+Avg       & 1.54251012145749 \\
+Std        & 0.7730334434974352  \\
+Max        & 3.0  \\
+Min       & 1.0 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : domain}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_domain.png}
+\caption{conversion : domain histogram} 
+\label{fig:conversion\_domain}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : domain stats} \\
+\hline \\
+Count        & 463  \\
+Unique       & 153 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : url}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_url.png}
+\caption{conversion : url histogram} 
+\label{fig:conversion\_url}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : url stats} \\
+\hline \\
+Count        & 476  \\
+Unique       & 290 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : anonymous\_url}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_anonymous_url.png}
+\caption{conversion : anonymous\_url histogram} 
+\label{fig:conversion\_anonymous\_url}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : anonymous\_url stats} \\
+\hline \\
+Count        & 0.0  \\
+Unique       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : ad\_slot\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_ad_slot_id.png}
+\caption{conversion : ad\_slot\_id histogram} 
+\label{fig:conversion\_ad\_slot\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : ad\_slot\_id stats} \\
+\hline \\
+Count        & 494  \\
+Unique       & 187 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : ad\_slot\_width}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_ad_slot_width.png}
+\caption{conversion : ad\_slot\_width histogram} 
+\label{fig:conversion\_ad\_slot\_width}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : ad\_slot\_width stats} \\
+\hline \\
+Count        & 494.0  \\
+Unique       & nan \\
+Avg       & 510.5425101214575 \\
+Std        & 308.57042159898566  \\
+Max        & 1000.0  \\
+Min       & 120.0 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : ad\_slot\_height}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_ad_slot_height.png}
+\caption{conversion : ad\_slot\_height histogram} 
+\label{fig:conversion\_ad\_slot\_height}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : ad\_slot\_height stats} \\
+\hline \\
+Count        & 494.0  \\
+Unique       & nan \\
+Avg       & 207.2672064777328 \\
+Std        & 105.05104263794989  \\
+Max        & 600.0  \\
+Min       & 90.0 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : ad\_slot\_visibility}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_ad_slot_visibility.png}
+\caption{conversion : ad\_slot\_visibility histogram} 
+\label{fig:conversion\_ad\_slot\_visibility}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : ad\_slot\_visibility stats} \\
+\hline \\
+Count        & 494  \\
+Unique       & 4 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : ad\_slot\_format}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_ad_slot_format.png}
+\caption{conversion : ad\_slot\_format histogram} 
+\label{fig:conversion\_ad\_slot\_format}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : ad\_slot\_format stats} \\
+\hline \\
+Count        & 494  \\
+Unique       & 3 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : ad\_slot\_floor\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_ad_slot_floor_price.png}
+\caption{conversion : ad\_slot\_floor\_price histogram} 
+\label{fig:conversion\_ad\_slot\_floor\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : ad\_slot\_floor\_price stats} \\
+\hline \\
+Count        & 494.0  \\
+Unique       & nan \\
+Avg       & 14.793522267206479 \\
+Std        & 30.917837177309586  \\
+Max        & 185.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : creative\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_creative_id.png}
+\caption{conversion : creative\_id histogram} 
+\label{fig:conversion\_creative\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : creative\_id stats} \\
+\hline \\
+Count        & 494  \\
+Unique       & 24 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : bidding\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_bidding_price.png}
+\caption{conversion : bidding\_price histogram} 
+\label{fig:conversion\_bidding\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : bidding\_price stats} \\
+\hline \\
+Count        & 494.0  \\
+Unique       & nan \\
+Avg       & 232.36639676113361 \\
+Std        & 7.899557358672127  \\
+Max        & 300.0  \\
+Min       & 227.0 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : paying\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_paying_price.png}
+\caption{conversion : paying\_price histogram} 
+\label{fig:conversion\_paying\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : paying\_price stats} \\
+\hline \\
+Count        & 494.0  \\
+Unique       & nan \\
+Avg       & 0.0 \\
+Std        & 0.0  \\
+Max        & 0.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : landing\_page\_url}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_landing_page_url.png}
+\caption{conversion : landing\_page\_url histogram} 
+\label{fig:conversion\_landing\_page\_url}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : landing\_page\_url stats} \\
+\hline \\
+Count        & 494  \\
+Unique       & 9 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : advertiser\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_advertiser_id.png}
+\caption{conversion : advertiser\_id histogram} 
+\label{fig:conversion\_advertiser\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : advertiser\_id stats} \\
+\hline \\
+Count        & 494  \\
+Unique       & 3 \\
+\end{tabular}
+\end{table}
+\subsection{conversion : user\_profile\_ids}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/conversion_user_profile_ids.png}
+\caption{conversion : user\_profile\_ids histogram} 
+\label{fig:conversion\_user\_profile\_ids}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{conversion : user\_profile\_ids stats} \\
+\hline \\
+Count        & 476  \\
+Unique       & 247 \\
+\end{tabular}
+\end{table}
+Finish with conversions
+\subsection{click : bid\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_bid_id.png}
+\caption{click : bid\_id histogram} 
+\label{fig:click\_bid\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : bid\_id stats} \\
+\hline \\
+Count        & 9978  \\
+Unique       & 8838 \\
+\end{tabular}
+\end{table}
+\subsection{click : timestamp}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_timestamp.png}
+\caption{click : timestamp histogram} 
+\label{fig:click\_timestamp}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : timestamp stats} \\
+\hline \\
+Count        & 9978  \\
+Unique       & 9976 \\
+\end{tabular}
+\end{table}
+\subsection{click : log\_type}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_log_type.png}
+\caption{click : log\_type histogram} 
+\label{fig:click\_log\_type}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : log\_type stats} \\
+\hline \\
+Count        & 9978.0  \\
+Unique       & nan \\
+Avg       & 2.0 \\
+Std        & 0.0  \\
+Max        & 2.0  \\
+Min       & 2.0 \\
+\end{tabular}
+\end{table}
+\subsection{click : ipinyou\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_ipinyou_id.png}
+\caption{click : ipinyou\_id histogram} 
+\label{fig:click\_ipinyou\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : ipinyou\_id stats} \\
+\hline \\
+Count        & 9978  \\
+Unique       & 8912 \\
+\end{tabular}
+\end{table}
+\subsection{click : user\_agent}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_user_agent.png}
+\caption{click : user\_agent histogram} 
+\label{fig:click\_user\_agent}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : user\_agent stats} \\
+\hline \\
+Count        & 9968  \\
+Unique       & 2444 \\
+\end{tabular}
+\end{table}
+\subsection{click : ip}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_ip.png}
+\caption{click : ip histogram} 
+\label{fig:click\_ip}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : ip stats} \\
+\hline \\
+Count        & 9978  \\
+Unique       & 8336 \\
+\end{tabular}
+\end{table}
+\subsection{click : region\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_region_id.png}
+\caption{click : region\_id histogram} 
+\label{fig:click\_region\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : region\_id stats} \\
+\hline \\
+Count        & 9978.0  \\
+Unique       & nan \\
+Avg       & 142.7532571657647 \\
+Std        & 106.2391443406419  \\
+Max        & 395.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{click : city\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_city_id.png}
+\caption{click : city\_id histogram} 
+\label{fig:click\_city\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : city\_id stats} \\
+\hline \\
+Count        & 9978.0  \\
+Unique       & nan \\
+Avg       & 147.456704750451 \\
+Std        & 107.1576957324157  \\
+Max        & 399.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{click : ad\_exchange}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_ad_exchange.png}
+\caption{click : ad\_exchange histogram} 
+\label{fig:click\_ad\_exchange}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : ad\_exchange stats} \\
+\hline \\
+Count        & 9978.0  \\
+Unique       & nan \\
+Avg       & 1.9100020044097012 \\
+Std        & 0.8723924792563703  \\
+Max        & 3.0  \\
+Min       & 1.0 \\
+\end{tabular}
+\end{table}
+\subsection{click : domain}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_domain.png}
+\caption{click : domain histogram} 
+\label{fig:click\_domain}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : domain stats} \\
+\hline \\
+Count        & 9426  \\
+Unique       & 1035 \\
+\end{tabular}
+\end{table}
+\subsection{click : url}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_url.png}
+\caption{click : url histogram} 
+\label{fig:click\_url}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : url stats} \\
+\hline \\
+Count        & 9633  \\
+Unique       & 5639 \\
+\end{tabular}
+\end{table}
+\subsection{click : anonymous\_url}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_anonymous_url.png}
+\caption{click : anonymous\_url histogram} 
+\label{fig:click\_anonymous\_url}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : anonymous\_url stats} \\
+\hline \\
+Count        & 0.0  \\
+Unique       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{click : ad\_slot\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_ad_slot_id.png}
+\caption{click : ad\_slot\_id histogram} 
+\label{fig:click\_ad\_slot\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : ad\_slot\_id stats} \\
+\hline \\
+Count        & 9978  \\
+Unique       & 1658 \\
+\end{tabular}
+\end{table}
+\subsection{click : ad\_slot\_width}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_ad_slot_width.png}
+\caption{click : ad\_slot\_width histogram} 
+\label{fig:click\_ad\_slot\_width}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : ad\_slot\_width stats} \\
+\hline \\
+Count        & 9978.0  \\
+Unique       & nan \\
+Avg       & 572.5063138905592 \\
+Std        & 322.67169905117214  \\
+Max        & 1000.0  \\
+Min       & 120.0 \\
+\end{tabular}
+\end{table}
+\subsection{click : ad\_slot\_height}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_ad_slot_height.png}
+\caption{click : ad\_slot\_height histogram} 
+\label{fig:click\_ad\_slot\_height}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : ad\_slot\_height stats} \\
+\hline \\
+Count        & 9978.0  \\
+Unique       & nan \\
+Avg       & 197.14772499498898 \\
+Std        & 127.726837268997  \\
+Max        & 600.0  \\
+Min       & 60.0 \\
+\end{tabular}
+\end{table}
+\subsection{click : ad\_slot\_visibility}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_ad_slot_visibility.png}
+\caption{click : ad\_slot\_visibility histogram} 
+\label{fig:click\_ad\_slot\_visibility}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : ad\_slot\_visibility stats} \\
+\hline \\
+Count        & 9978  \\
+Unique       & 4 \\
+\end{tabular}
+\end{table}
+\subsection{click : ad\_slot\_format}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_ad_slot_format.png}
+\caption{click : ad\_slot\_format histogram} 
+\label{fig:click\_ad\_slot\_format}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : ad\_slot\_format stats} \\
+\hline \\
+Count        & 9978  \\
+Unique       & 3 \\
+\end{tabular}
+\end{table}
+\subsection{click : ad\_slot\_floor\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_ad_slot_floor_price.png}
+\caption{click : ad\_slot\_floor\_price histogram} 
+\label{fig:click\_ad\_slot\_floor\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : ad\_slot\_floor\_price stats} \\
+\hline \\
+Count        & 9978.0  \\
+Unique       & nan \\
+Avg       & 27.39637201844057 \\
+Std        & 38.71287271500991  \\
+Max        & 280.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{click : creative\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_creative_id.png}
+\caption{click : creative\_id histogram} 
+\label{fig:click\_creative\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : creative\_id stats} \\
+\hline \\
+Count        & 9978  \\
+Unique       & 73 \\
+\end{tabular}
+\end{table}
+\subsection{click : bidding\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_bidding_price.png}
+\caption{click : bidding\_price histogram} 
+\label{fig:click\_bidding\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : bidding\_price stats} \\
+\hline \\
+Count        & 9978.0  \\
+Unique       & nan \\
+Avg       & 268.5330727600722 \\
+Std        & 32.45253522912118  \\
+Max        & 300.0  \\
+Min       & 227.0 \\
+\end{tabular}
+\end{table}
+\subsection{click : paying\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_paying_price.png}
+\caption{click : paying\_price histogram} 
+\label{fig:click\_paying\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : paying\_price stats} \\
+\hline \\
+Count        & 9978.0  \\
+Unique       & nan \\
+Avg       & 0.0 \\
+Std        & 0.0  \\
+Max        & 0.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{click : landing\_page\_url}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_landing_page_url.png}
+\caption{click : landing\_page\_url histogram} 
+\label{fig:click\_landing\_page\_url}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : landing\_page\_url stats} \\
+\hline \\
+Count        & 9978  \\
+Unique       & 18 \\
+\end{tabular}
+\end{table}
+\subsection{click : advertiser\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_advertiser_id.png}
+\caption{click : advertiser\_id histogram} 
+\label{fig:click\_advertiser\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : advertiser\_id stats} \\
+\hline \\
+Count        & 9978  \\
+Unique       & 5 \\
+\end{tabular}
+\end{table}
+\subsection{click : user\_profile\_ids}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/click_user_profile_ids.png}
+\caption{click : user\_profile\_ids histogram} 
+\label{fig:click\_user\_profile\_ids}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{click : user\_profile\_ids stats} \\
+\hline \\
+Count        & 9031  \\
+Unique       & 4567 \\
+\end{tabular}
+\end{table}
+Finish with clicks
+\subsection{impression : bid\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_bid_id.png}
+\caption{impression : bid\_id histogram} 
+\label{fig:impression\_bid\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : bid\_id stats} \\
+\hline \\
+Count        & 12237087  \\
+Unique       & 12190347 \\
+\end{tabular}
+\end{table}
+\subsection{impression : timestamp}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_timestamp.png}
+\caption{impression : timestamp histogram} 
+\label{fig:impression\_timestamp}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : timestamp stats} \\
+\hline \\
+Count        & 12237087  \\
+Unique       & 10155037 \\
+\end{tabular}
+\end{table}
+\subsection{impression : log\_type}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_log_type.png}
+\caption{impression : log\_type histogram} 
+\label{fig:impression\_log\_type}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : log\_type stats} \\
+\hline \\
+Count        & 12237087.0  \\
+Unique       & nan \\
+Avg       & 1.0 \\
+Std        & 0.0  \\
+Max        & 1.0  \\
+Min       & 1.0 \\
+\end{tabular}
+\end{table}
+\subsection{impression : ipinyou\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_ipinyou_id.png}
+\caption{impression : ipinyou\_id histogram} 
+\label{fig:impression\_ipinyou\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : ipinyou\_id stats} \\
+\hline \\
+Count        & 12237087  \\
+Unique       & 10146411 \\
+\end{tabular}
+\end{table}
+\subsection{impression : user\_agent}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_user_agent.png}
+\caption{impression : user\_agent histogram} 
+\label{fig:impression\_user\_agent}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : user\_agent stats} \\
+\hline \\
+Count        & 12235511  \\
+Unique       & 459646 \\
+\end{tabular}
+\end{table}
+\subsection{impression : ip}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_ip.png}
+\caption{impression : ip histogram} 
+\label{fig:impression\_ip}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : ip stats} \\
+\hline \\
+Count        & 12237087  \\
+Unique       & 631255 \\
+\end{tabular}
+\end{table}
+\subsection{impression : region\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_region_id.png}
+\caption{impression : region\_id histogram} 
+\label{fig:impression\_region\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : region\_id stats} \\
+\hline \\
+Count        & 12237087.0  \\
+Unique       & nan \\
+Avg       & 146.1786921184756 \\
+Std        & 103.31846884209202  \\
+Max        & 395.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{impression : city\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_city_id.png}
+\caption{impression : city\_id histogram} 
+\label{fig:impression\_city\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : city\_id stats} \\
+\hline \\
+Count        & 12237087.0  \\
+Unique       & nan \\
+Avg       & 151.0824818030631 \\
+Std        & 104.52277543264286  \\
+Max        & 399.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{impression : ad\_exchange}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_ad_exchange.png}
+\caption{impression : ad\_exchange histogram} 
+\label{fig:impression\_ad\_exchange}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : ad\_exchange stats} \\
+\hline \\
+Count        & 12237087.0  \\
+Unique       & nan \\
+Avg       & 2.0423398967417654 \\
+Std        & 0.8212172723522106  \\
+Max        & 3.0  \\
+Min       & 1.0 \\
+\end{tabular}
+\end{table}
+\subsection{impression : domain}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_domain.png}
+\caption{impression : domain histogram} 
+\label{fig:impression\_domain}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : domain stats} \\
+\hline \\
+Count        & 11641223  \\
+Unique       & 28504 \\
+\end{tabular}
+\end{table}
+\subsection{impression : url}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_url.png}
+\caption{impression : url histogram} 
+\label{fig:impression\_url}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : url stats} \\
+\hline \\
+Count        & 12102250  \\
+Unique       & 2362100 \\
+\end{tabular}
+\end{table}
+\subsection{impression : anonymous\_url}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_anonymous_url.png}
+\caption{impression : anonymous\_url histogram} 
+\label{fig:impression\_anonymous\_url}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : anonymous\_url stats} \\
+\hline \\
+Count        & 0.0  \\
+Unique       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{impression : ad\_slot\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_ad_slot_id.png}
+\caption{impression : ad\_slot\_id histogram} 
+\label{fig:impression\_ad\_slot\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : ad\_slot\_id stats} \\
+\hline \\
+Count        & 12237087  \\
+Unique       & 141515 \\
+\end{tabular}
+\end{table}
+\subsection{impression : ad\_slot\_width}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_ad_slot_width.png}
+\caption{impression : ad\_slot\_width histogram} 
+\label{fig:impression\_ad\_slot\_width}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : ad\_slot\_width stats} \\
+\hline \\
+Count        & 12237087.0  \\
+Unique       & nan \\
+Avg       & 587.5460574890086 \\
+Std        & 322.3949918801185  \\
+Max        & 1000.0  \\
+Min       & 120.0 \\
+\end{tabular}
+\end{table}
+\subsection{impression : ad\_slot\_height}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_ad_slot_height.png}
+\caption{impression : ad\_slot\_height histogram} 
+\label{fig:impression\_ad\_slot\_height}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : ad\_slot\_height stats} \\
+\hline \\
+Count        & 12237087.0  \\
+Unique       & nan \\
+Avg       & 190.9882262012193 \\
+Std        & 131.3302422224557  \\
+Max        & 600.0  \\
+Min       & 60.0 \\
+\end{tabular}
+\end{table}
+\subsection{impression : ad\_slot\_visibility}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_ad_slot_visibility.png}
+\caption{impression : ad\_slot\_visibility histogram} 
+\label{fig:impression\_ad\_slot\_visibility}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : ad\_slot\_visibility stats} \\
+\hline \\
+Count        & 12237087  \\
+Unique       & 4 \\
+\end{tabular}
+\end{table}
+\subsection{impression : ad\_slot\_format}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_ad_slot_format.png}
+\caption{impression : ad\_slot\_format histogram} 
+\label{fig:impression\_ad\_slot\_format}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : ad\_slot\_format stats} \\
+\hline \\
+Count        & 12237087  \\
+Unique       & 3 \\
+\end{tabular}
+\end{table}
+\subsection{impression : ad\_slot\_floor\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_ad_slot_floor_price.png}
+\caption{impression : ad\_slot\_floor\_price histogram} 
+\label{fig:impression\_ad\_slot\_floor\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : ad\_slot\_floor\_price stats} \\
+\hline \\
+Count        & 12237087.0  \\
+Unique       & nan \\
+Avg       & 26.70375016537841 \\
+Std        & 35.779246293719424  \\
+Max        & 300.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{impression : creative\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_creative_id.png}
+\caption{impression : creative\_id histogram} 
+\label{fig:impression\_creative\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : creative\_id stats} \\
+\hline \\
+Count        & 12237087  \\
+Unique       & 74 \\
+\end{tabular}
+\end{table}
+\subsection{impression : bidding\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_bidding_price.png}
+\caption{impression : bidding\_price histogram} 
+\label{fig:impression\_bidding\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : bidding\_price stats} \\
+\hline \\
+Count        & 12237087.0  \\
+Unique       & nan \\
+Avg       & 268.4895463274879 \\
+Std        & 31.184289296184488  \\
+Max        & 300.0  \\
+Min       & 227.0 \\
+\end{tabular}
+\end{table}
+\subsection{impression : paying\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_paying_price.png}
+\caption{impression : paying\_price histogram} 
+\label{fig:impression\_paying\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : paying\_price stats} \\
+\hline \\
+Count        & 12237087.0  \\
+Unique       & nan \\
+Avg       & 78.34696460031705 \\
+Std        & 58.91025833691845  \\
+Max        & 300.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{impression : landing\_page\_url}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_landing_page_url.png}
+\caption{impression : landing\_page\_url histogram} 
+\label{fig:impression\_landing\_page\_url}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : landing\_page\_url stats} \\
+\hline \\
+Count        & 12237087  \\
+Unique       & 18 \\
+\end{tabular}
+\end{table}
+\subsection{impression : advertiser\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_advertiser_id.png}
+\caption{impression : advertiser\_id histogram} 
+\label{fig:impression\_advertiser\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : advertiser\_id stats} \\
+\hline \\
+Count        & 12237087  \\
+Unique       & 5 \\
+\end{tabular}
+\end{table}
+\subsection{impression : user\_profile\_ids}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/impression_user_profile_ids.png}
+\caption{impression : user\_profile\_ids histogram} 
+\label{fig:impression\_user\_profile\_ids}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{impression : user\_profile\_ids stats} \\
+\hline \\
+Count        & 10545472  \\
+Unique       & 2642143 \\
+\end{tabular}
+\end{table}
+Finish with impressions
+\subsection{bids : bid\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_bid_id.png}
+\caption{bids : bid\_id histogram} 
+\label{fig:bids\_bid\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : bid\_id stats} \\
+\hline \\
+Count        & 53289330  \\
+Unique       & 53289330 \\
+\end{tabular}
+\end{table}
+\subsection{bids : timestamp}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_timestamp.png}
+\caption{bids : timestamp histogram} 
+\label{fig:bids\_timestamp}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : timestamp stats} \\
+\hline \\
+Count        & 53289330  \\
+Unique       & 32495070 \\
+\end{tabular}
+\end{table}
+\subsection{bids : ipinyou\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_ipinyou_id.png}
+\caption{bids : ipinyou\_id histogram} 
+\label{fig:bids\_ipinyou\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : ipinyou\_id stats} \\
+\hline \\
+Count        & 30260706  \\
+Unique       & 16649591 \\
+\end{tabular}
+\end{table}
+\subsection{bids : user\_agent}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_user_agent.png}
+\caption{bids : user\_agent histogram} 
+\label{fig:bids\_user\_agent}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : user\_agent stats} \\
+\hline \\
+Count        & 53276931  \\
+Unique       & 1096316 \\
+\end{tabular}
+\end{table}
+\subsection{bids : ip}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_ip.png}
+\caption{bids : ip histogram} 
+\label{fig:bids\_ip}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : ip stats} \\
+\hline \\
+Count        & 53287100  \\
+Unique       & 741173 \\
+\end{tabular}
+\end{table}
+\subsection{bids : region\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_region_id.png}
+\caption{bids : region\_id histogram} 
+\label{fig:bids\_region\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : region\_id stats} \\
+\hline \\
+Count        & 53289330.0  \\
+Unique       & nan \\
+Avg       & 154.44593792040544 \\
+Std        & 98.036132552614  \\
+Max        & 395.0  \\
+Min       & -1.0 \\
+\end{tabular}
+\end{table}
+\subsection{bids : city\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_city_id.png}
+\caption{bids : city\_id histogram} 
+\label{fig:bids\_city\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : city\_id stats} \\
+\hline \\
+Count        & 53289330.0  \\
+Unique       & nan \\
+Avg       & 159.76397678484605 \\
+Std        & 98.90074441958829  \\
+Max        & 399.0  \\
+Min       & -1.0 \\
+\end{tabular}
+\end{table}
+\subsection{bids : ad\_exchange}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_ad_exchange.png}
+\caption{bids : ad\_exchange histogram} 
+\label{fig:bids\_ad\_exchange}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : ad\_exchange stats} \\
+\hline \\
+Count        & 53289330.0  \\
+Unique       & nan \\
+Avg       & 2.5237204896364807 \\
+Std        & 0.6921175101692235  \\
+Max        & 3.0  \\
+Min       & 1.0 \\
+\end{tabular}
+\end{table}
+\subsection{bids : domain}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_domain.png}
+\caption{bids : domain histogram} 
+\label{fig:bids\_domain}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : domain stats} \\
+\hline \\
+Count        & 42761155  \\
+Unique       & 53974 \\
+\end{tabular}
+\end{table}
+\subsection{bids : url}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_url.png}
+\caption{bids : url histogram} 
+\label{fig:bids\_url}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : url stats} \\
+\hline \\
+Count        & 44386962  \\
+Unique       & 5233328 \\
+\end{tabular}
+\end{table}
+\subsection{bids : anonymous\_url}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_anonymous_url.png}
+\caption{bids : anonymous\_url histogram} 
+\label{fig:bids\_anonymous\_url}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : anonymous\_url stats} \\
+\hline \\
+Count        & 1624273  \\
+Unique       & 12548 \\
+\end{tabular}
+\end{table}
+\subsection{bids : ad\_slot\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_ad_slot_id.png}
+\caption{bids : ad\_slot\_id histogram} 
+\label{fig:bids\_ad\_slot\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : ad\_slot\_id stats} \\
+\hline \\
+Count        & 53289330  \\
+Unique       & 336338 \\
+\end{tabular}
+\end{table}
+\subsection{bids : ad\_slot\_width}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_ad_slot_width.png}
+\caption{bids : ad\_slot\_width histogram} 
+\label{fig:bids\_ad\_slot\_width}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : ad\_slot\_width stats} \\
+\hline \\
+Count        & 53289330.0  \\
+Unique       & nan \\
+Avg       & 568.7876895806346 \\
+Std        & 323.23281494460133  \\
+Max        & 1000.0  \\
+Min       & 120.0 \\
+\end{tabular}
+\end{table}
+\subsection{bids : ad\_slot\_height}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_ad_slot_height.png}
+\caption{bids : ad\_slot\_height histogram} 
+\label{fig:bids\_ad\_slot\_height}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : ad\_slot\_height stats} \\
+\hline \\
+Count        & 53289330.0  \\
+Unique       & nan \\
+Avg       & 187.01577426475433 \\
+Std        & 107.79409423398538  \\
+Max        & 600.0  \\
+Min       & 60.0 \\
+\end{tabular}
+\end{table}
+\subsection{bids : ad\_slot\_visibility}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_ad_slot_visibility.png}
+\caption{bids : ad\_slot\_visibility histogram} 
+\label{fig:bids\_ad\_slot\_visibility}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : ad\_slot\_visibility stats} \\
+\hline \\
+Count        & 53289330  \\
+Unique       & 4 \\
+\end{tabular}
+\end{table}
+\subsection{bids : ad\_slot\_format}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_ad_slot_format.png}
+\caption{bids : ad\_slot\_format histogram} 
+\label{fig:bids\_ad\_slot\_format}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : ad\_slot\_format stats} \\
+\hline \\
+Count        & 53289330  \\
+Unique       & 3 \\
+\end{tabular}
+\end{table}
+\subsection{bids : ad\_slot\_floor\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_ad_slot_floor_price.png}
+\caption{bids : ad\_slot\_floor\_price histogram} 
+\label{fig:bids\_ad\_slot\_floor\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : ad\_slot\_floor\_price stats} \\
+\hline \\
+Count        & 53289330.0  \\
+Unique       & nan \\
+Avg       & 47.21349960676931 \\
+Std        & 41.035346301323855  \\
+Max        & 300.0  \\
+Min       & 0.0 \\
+\end{tabular}
+\end{table}
+\subsection{bids : creative\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_creative_id.png}
+\caption{bids : creative\_id histogram} 
+\label{fig:bids\_creative\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : creative\_id stats} \\
+\hline \\
+Count        & 53289330  \\
+Unique       & 74 \\
+\end{tabular}
+\end{table}
+\subsection{bids : bidding\_price}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_bidding_price.png}
+\caption{bids : bidding\_price histogram} 
+\label{fig:bids\_bidding\_price}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : bidding\_price stats} \\
+\hline \\
+Count        & 53289330.0  \\
+Unique       & nan \\
+Avg       & 272.91817827321154 \\
+Std        & 29.836721292972747  \\
+Max        & 300.0  \\
+Min       & 227.0 \\
+\end{tabular}
+\end{table}
+\subsection{bids : advertiser\_id}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_advertiser_id.png}
+\caption{bids : advertiser\_id histogram} 
+\label{fig:bids\_advertiser\_id}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : advertiser\_id stats} \\
+\hline \\
+Count        & 53289330  \\
+Unique       & 5 \\
+\end{tabular}
+\end{table}
+\subsection{bids : user\_profile\_ids}
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{images/bids_user_profile_ids.png}
+\caption{bids : user\_profile\_ids histogram} 
+\label{fig:bids\_user\_profile\_ids}
+\end{figure}
+\begin{table}[]
+\begin{tabular}{ll}
+\multicolumn{3}{c}{bids : user\_profile\_ids stats} \\
+\hline \\
+Count        & 0.0  \\
+Unique       & 0.0 \\
+\end{tabular}
+\end{table}
+Finish with bids
